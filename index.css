@@ -23,3 +23,8 @@
       transform: translateY(0);
     }
   }
+
+  h2 {
+    font-weight: 300;
+    font-size: larger;
+  }
